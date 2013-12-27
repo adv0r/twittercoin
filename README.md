@@ -1,4 +1,4 @@
-=== TwitterCoin Application (Litecoin Fork project)
+## TwitterCoin Application (Litecoin Fork project)
 
 Send ~~Bitcoins~~ Litecoins over Twitter.
 

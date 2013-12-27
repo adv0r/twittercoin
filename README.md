@@ -1,6 +1,6 @@
 ## TwitterCoin Application (Litecoin Fork project)
 
-Send ~~Bitcoins~~ Litecoins over Twitter.
+###Send ~~Bitcoins~~ Litecoins over Twitter.
 
 www.tippercoin.com/#/how-it-works
 
